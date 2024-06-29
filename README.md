@@ -1,4 +1,4 @@
-# Finidng-IPM-for-ADAS-System-in-Driverless-Trucks
+# Finding-IPM-for-ADAS-System-in-Driverless-Trucks
 Calculating IPM100 (disengagement per 100 miles) for specific issue in Driverless trucks specific to ISSUE-18 using real time data 
 
 Step 1: Imported necessary libraries, including pandas and numpy
